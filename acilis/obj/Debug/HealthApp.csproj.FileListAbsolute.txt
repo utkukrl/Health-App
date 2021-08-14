@@ -1,0 +1,7 @@
+C:\Users\UTKU\source\repos\HealthApp\acilis\obj\Debug\HealthApp.csproj.AssemblyReference.cache
+C:\Users\UTKU\source\repos\HealthApp\acilis\obj\Debug\acilis.adresler.resources
+C:\Users\UTKU\source\repos\HealthApp\acilis\obj\Debug\acilis.Form1.resources
+C:\Users\UTKU\source\repos\HealthApp\acilis\obj\Debug\acilis.GKİForm.resources
+C:\Users\UTKU\source\repos\HealthApp\acilis\obj\Debug\acilis.vkiForm.resources
+C:\Users\UTKU\source\repos\HealthApp\acilis\obj\Debug\acilis.ygih.resources
+C:\Users\UTKU\source\repos\HealthApp\acilis\obj\Debug\HealthApp.csproj.GenerateResource.cache
